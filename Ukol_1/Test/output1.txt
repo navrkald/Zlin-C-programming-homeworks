@@ -1,0 +1,84 @@
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Aktualni obsah pole:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+Zadat jine hodnoty? (A/N)
+Zadavejte hodnoty oddelene novym radkem, konec=K:
+Nespravny format, zkuste znovu
+Minimum=1, maximum=6
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Aktualni obsah pole:
+1, 2, 4, 5, 6
+Zadat jine hodnoty? (A/N)
+Minimum=1, maximum=6
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Aktualni obsah pole:
+1, 2, 4, 5, 6
+Zadat jine hodnoty? (A/N)
+Zadavejte hodnoty oddelene novym radkem, konec=K:
+Minimum=5, maximum=100
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Aktualni obsah pole:
+30, 20, 10, 100, 5
+Zadat jine hodnoty? (A/N)
+Minimum=5
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Aktualni obsah pole:
+30, 20, 10, 100, 5
+Zadat jine hodnoty? (A/N)
+Zadavejte hodnoty oddelene novym radkem, konec=K:
+Maximum=10
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Vlozte hodnotu N:
+Faktorial(4)=24
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Vlozte hodnotu N:
+Fibonacci(8)=21
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.

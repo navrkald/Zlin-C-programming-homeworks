@@ -1,0 +1,63 @@
+Histogram
+Stisknete:
+1 pro nacteni noveho souboru
+2 pro vypis histogramu
+3 pro vymazani obsahu vektoru
+cokoli jineho pro konec.
+Vlozte absolutni nebo relativni cestu k souboru:
+Opening.. CodingStyle.txt
+Stisknete:
+1 pro nacteni noveho souboru
+2 pro vypis histogramu
+3 pro vymazani obsahu vektoru
+cokoli jineho pro konec.
+Zadejte pocet boxu histogramu:
+Min: 1
+Max: 80
+Histogram....
+[From]					[To]					[Count]
+1					12						79
+13					24						94
+25					36						67
+37					48						53
+49					60						41
+61					72						212
+73					84						138
+Stisknete:
+1 pro nacteni noveho souboru
+2 pro vypis histogramu
+3 pro vymazani obsahu vektoru
+cokoli jineho pro konec.
+Zadejte pocet boxu histogramu:
+Min: 1
+Max: 80
+Histogram....
+[From]					[To]					[Count]
+1					27						189
+28					54						126
+55					81						369
+Stisknete:
+1 pro nacteni noveho souboru
+2 pro vypis histogramu
+3 pro vymazani obsahu vektoru
+cokoli jineho pro konec.
+Zadejte pocet boxu histogramu:
+Min: 1
+Max: 80
+Histogram....
+[From]					[To]					[Count]
+1					8						47
+9					16						62
+17					24						64
+25					32						41
+33					40						47
+41					48						32
+49					56						27
+57					64						44
+65					72						182
+73					80						138
+Stisknete:
+1 pro nacteni noveho souboru
+2 pro vypis histogramu
+3 pro vymazani obsahu vektoru
+cokoli jineho pro konec.

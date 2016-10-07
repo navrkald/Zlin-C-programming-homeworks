@@ -1,0 +1,12 @@
+#! /bin/sh
+cd ../reseni && gcc -std=c99 -o ukol3 main.c histogram.c vector.c ioutils.c && mv ukol3 ../test && cd ../test && ./ukol3 < input1.txt > out && diff -b out output1.txt > /dev/null
+if [ $? = 0 ]; then
+	echo "Ukol 3 Histogram OK!"
+	return 0
+else
+	echo "Something is wronk with Ukol 3 histogram!"
+	return 1
+fi
+
+#clean
+rm out ukol3

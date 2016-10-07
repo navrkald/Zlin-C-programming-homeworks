@@ -1,0 +1,9 @@
+Stisknete:
+1 pro minmax
+2 pro minimum
+3 pro maximum
+4 pro faktorial
+5 pro Fibonacciho posloupnost
+cokoli jineho pro konec.
+Vlozte hodnotu N:
+Neocekavany konec souboru

@@ -1,0 +1,12 @@
+#! /bin/sh
+cd ../reseni && gcc -std=c99 -o ukol1 main.c fce.c ioutils.c && mv ukol1 ../testovací_vstup && cd ../testovací_vstup && cat in.txt | ./ukol1 > out && diff -b out out.txt > /dev/null
+if [ $? = 0 ]; then
+	echo "Ukol 1 OK!"
+	return 0
+else
+	echo "Something is wronk with Ukol 1!"
+	return 1
+fi
+
+#clean
+rm out ukol1

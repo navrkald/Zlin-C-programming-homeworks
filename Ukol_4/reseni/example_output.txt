@@ -1,0 +1,177 @@
+format@skysaw:~/Dropbox/ADS_Test_Programs/2015/list-classic_en/src-build$ ./List_en
+List test program
+Enter character 0-A for one of the following actions:
+0: Init,
+1: Actualize,
+2: Insert_First,
+3: First,
+4: Copy_First,
+5: Delete_First,
+6: Post_Delete,
+7: Post_Insert,
+8: Copy,
+9: Succ,
+A: Is_Active,
+M: Print menu
+CTRL+Z (Win) or CTRL+D (Unix): Exit program
+2
+Your choice=2
+Insert_First - inserts new item to 1. position inside list
+Enter person's name: Roman
+Enter age, weight and height(separated by Enter):
+25
+65
+180
+myMalloc: allocating 288 bytes, totally allocated 288 bytes
+Active item:
+NULL
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+2
+Your choice=2
+Insert_First - inserts new item to 1. position inside list
+Enter person's name: Rodney
+Enter age, weight and height(separated by Enter):
+37
+76
+174
+myMalloc: allocating 288 bytes, totally allocated 576 bytes
+Active item:
+NULL
+Content of list:
+1. item: Name=Rodney, age=37.0, weight=76.0, height=174.0
+2. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+3
+Your choice=3
+First - sets 1. item as active
+Active item:
+Name=Rodney, age=37.0, weight=76.0, height=174.0
+Content of list:
+1. item: Name=Rodney, age=37.0, weight=76.0, height=174.0
+2. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+9
+Your choice=9
+Succ - move pointer to active item to next one
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Rodney, age=37.0, weight=76.0, height=174.0
+2. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+7
+Your choice=7
+Post_Insert - insert new item after the active one
+Enter person's name: Janice
+Enter age, weight and height(separated by Enter):
+20
+50
+170
+myMalloc: allocating 288 bytes, totally allocated 864 bytes
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Rodney, age=37.0, weight=76.0, height=174.0
+2. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+3. item: Name=Janice, age=20.0, weight=50.0, height=170.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+6
+Your choice=6
+Post_Delete - remove item after active item
+myFree: freeing 288 bytes, totally allocated 576 bytes
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Rodney, age=37.0, weight=76.0, height=174.0
+2. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+5
+Your choice=5
+Delete_First - remove 1. item
+myFree: freeing 288 bytes, totally allocated 288 bytes
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+6
+Your choice=6
+Post_Delete - remove item after active item
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+4
+Your choice=4
+Copy_First - prints 1. item of list
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+8
+Your choice=8
+Copy - print value of active item
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+A
+Your choice=A
+Is_Active - query if the list is active
+Is_Active=true
+Active item:
+Name=Roman, age=25.0, weight=65.0, height=180.0
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+9
+Your choice=9
+Succ - move pointer to active item to next one
+Active item:
+NULL
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+A
+Your choice=A
+Is_Active - query if the list is active
+Is_Active=false
+Active item:
+NULL
+Content of list:
+1. item: Name=Roman, age=25.0, weight=65.0, height=180.0
+
+Enter character 0-A, EOF(tj. CTRL+Z nebo CTRL+D)=Exit, M=Menu:
+************************************************************
+ 

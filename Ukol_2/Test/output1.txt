@@ -1,0 +1,162 @@
+Vector test program
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Delka vektoru: 20
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+vector[0]: 0
+vector[1]: 5
+vector[2]: 10
+vector[3]: 15
+vector[4]: 20
+vector[5]: 25
+vector[6]: 30
+vector[7]: 35
+vector[8]: 40
+vector[9]: 45
+vector[10]: 50
+vector[11]: 55
+vector[12]: 60
+vector[13]: 65
+vector[14]: 70
+vector[15]: 75
+vector[16]: 80
+vector[17]: 85
+vector[18]: 90
+vector[19]: 95
+vector[20]: 365
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Zadejte pozici prvku ktery chcete odebrat:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+vector[0]: 0
+vector[1]: 5
+vector[2]: 10
+vector[3]: 15
+vector[4]: 20
+vector[5]: 25
+vector[6]: 30
+vector[7]: 35
+vector[8]: 40
+vector[9]: 45
+vector[10]: 55
+vector[11]: 60
+vector[12]: 65
+vector[13]: 70
+vector[14]: 75
+vector[15]: 80
+vector[16]: 85
+vector[17]: 90
+vector[18]: 95
+vector[19]: 365
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Zadejte hodnotu hledaneho prvku:
+Vector neobsahuje prvek
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Zadejte hodnotu hledaneho prvku:
+Zadejte pocatecni index hledani:
+Pozice prvku: -1
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Delka vektoru: 0
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Vlozte hodnotu prvku:
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+vector[0]: 8
+Stisknete:
+1 pro vypis delky vektoru
+2 pro pridani prvku
+3 pro odebrani prvku
+4 pro vypis vsech prvku
+5 pro zjisteni jestli vektor obsahuje prvek
+6 pro nalezení pozice prvku
+7 pro vycisteni vektoru
+cokoli jineho pro konec.
+Konec souboru, koncime.
